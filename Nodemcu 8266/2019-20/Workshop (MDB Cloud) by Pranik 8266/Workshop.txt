@@ -1,0 +1,3 @@
+Send Link - http://mdbelectrosoft.in/MDBES/Workshop.php?unit=50&sensor=44
+
+Receive Link -  http://mdbelectrosoft.in/MDBES/Workshop.php?unit=50
